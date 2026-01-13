@@ -1,0 +1,121 @@
+[
+  {
+    "name": "eDNA Metabarcoding Framework",
+    "desc": "An advanced AI-driven framework for precision taxonomy and global biodiversity assessment using environmental DNA (eDNA) metabarcoding, integrating complex genetic data processing.",
+    "image": "edna",
+    "category": "AI & Bioinformatics",
+    "links": {
+      "view": "https://amreenfathima26ednaplatform.streamlit.app/",
+      "code": "https://github.com/amreenfathima26/-Identifying-Taxonomy-and-Assessing-Biodiversity-from-eDNA-Datasets"
+    }
+  },
+  {
+    "name": "Luxe Market - Online Grocery Store",
+    "desc": "A modern online grocery shopping platform with a user-friendly interface for seamless product browsing and management.",
+    "image": "luxemart",
+    "category": "Web Application",
+    "links": {
+      "view": "https://amreenfathima26.github.io/luxe-market/",
+      "code": "https://github.com/amreenfathima26/luxe-market"
+    }
+  },
+  {
+    "name": "College ERP Student Management System",
+    "desc": "A comprehensive ERP system for colleges to manage student data, attendance, and academic performance efficiently.",
+    "image": "erp",
+    "category": "Full-Stack Project",
+    "links": {
+      "view": "https://erp-student-management.vercel.app/login",
+      "code": "https://github.com/amreenfathima26/ERP-Student-Management"
+    }
+  },
+  {
+    "name": "Library Management System",
+    "desc": "A digital platform to manage library resources, including book tracking, member records, and loan management.",
+    "image": "library",
+    "category": "Software Suite",
+    "links": {
+      "view": "https://library-management-system-eight-iota.vercel.app/",
+      "code": "https://github.com/amreenfathima26/Library-Management_System"
+    }
+  },
+  {
+    "name": "Lung Cancer Prediction System",
+    "desc": "A Machine Learning powered system for the early detection and prediction of lung cancer using diagnostic data.",
+    "image": "lung_cancer_prediction",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://lung-cancer-prediction-jktj.onrender.com/",
+      "code": "https://github.com/amreenfathima26/-Lung-Cancer-Prediction-System-"
+    }
+  },
+  {
+    "name": "Rural School Attendance Control",
+    "desc": "A localized student management and attendance tracking system designed for schools in rural areas.",
+    "image": "webviewapp",
+    "links": {
+      "view": "https://attendance-frontend-3ss8.onrender.com/login",
+      "code": "https://github.com/amreenfathima26/-Current-problem-in-school-attendance-control-in-rural-areas"
+    }
+  },
+  {
+    "name": "Real-time Phishing Detection System",
+    "desc": "A cybersecurity framework that identifies and alerts users about phishing threats in real-time.",
+    "image": "phishing",
+    "category": "Cybersecurity",
+    "links": {
+      "view": "https://amreenfathima26real-time-phishing-detection-system.streamlit.app/",
+      "code": "https://github.com/amreenfathima26/Real-time-phishing-detection-system"
+    }
+  },
+  {
+    "name": "Authenticity Validator for Academia",
+    "desc": "Ensuring the integrity of academic submissions through an automated authenticity verification system.",
+    "image": "authenticity",
+    "category": "Security & Integrity",
+    "links": {
+      "view": "https://authenticity-validator-for-academia.vercel.app/login",
+      "code": "https://github.com/amreenfathima26/Authenticity-Validator-for-Academia"
+    }
+  },
+  {
+    "name": "AI-Based Internship Recommendation Engine",
+    "desc": "Personalized internship suggestions for students under the PM Internship Scheme using AI algorithms.",
+    "image": "internship",
+    "category": "AI & recommendation",
+    "links": {
+      "view": "https://ai-based-internship-recommendation-gilt.vercel.app/",
+      "code": "https://github.com/amreenfathima26/AI-Based-Internship-Recommendation-Engine-for-PM-Internship-Scheme"
+    }
+  },
+  {
+    "name": "Blockchain Based Voting System",
+    "desc": "A secure and transparent voting platform leveraging blockchain technology for tamper-proof results.",
+    "image": "voting",
+    "category": "Blockchain",
+    "links": {
+      "view": "https://blockchain-based-voting-system-1.onrender.com/",
+      "code": "https://github.com/amreenfathima26/BlockChain-Based-Voting-System"
+    }
+  },
+  {
+    "name": "Speech Emotion Recognization",
+    "desc": "An AI system that detects human emotions from voice samples using speech pattern analysis.",
+    "image": "speech_emotion",
+    "category": "Deep Learning",
+    "links": {
+      "view": "https://amreenfathima26semorecmas.streamlit.app/",
+      "code": "https://github.com/amreenfathima26/Speech-Emotion-Recognization-master"
+    }
+  },
+  {
+    "name": "Fake News Detector",
+    "desc": "Identifying misinformation and fake news using natural language processing and truth verification models.",
+    "image": "fake_news",
+    "category": "NLP & AI",
+    "links": {
+      "view": "https://fake-news-detector-0u1j.onrender.com/",
+      "code": "https://github.com/amreenfathima26/Fake-News-Detector-App-master"
+    }
+  }
+]
